@@ -1,0 +1,54 @@
+body{
+    background-image: url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    font-family: cursive;
+    color: white;
+    padding: 12px;
+    margin-left: 600px;
+}
+
+.title:hover{
+    color: black;
+}
+
+.title2{
+    font-family: cursive;
+    color: white;
+    padding: 12px;
+    margin-left: 400px;
+}
+
+.title2:hover{
+    color: black;
+}
+
+.form{
+    font-family: cursive;
+    color: white;
+    padding: 10px;
+    margin-left: 700px;
+    font-size: 18px;
+}
+
+.email:hover{
+    color: black;
+}
+
+.senha:hover{
+    color: black;
+}
+
+.tel:hover{
+    color: black;
+}
+
+button{
+    margin-left: 830px;
+    margin-top: 30px;
+}
+
